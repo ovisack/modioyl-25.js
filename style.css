@@ -1,0 +1,16 @@
+h1{
+ color: blue;
+}
+li{
+text-decoration: none;
+    color:rgb(127, 150, 255);
+}
+#dom-title{
+    color: brown;
+}
+.style-ov{
+    color: rgb(224, 64, 117);
+}
+#places-container{
+    background-color: blueviolet;
+}
